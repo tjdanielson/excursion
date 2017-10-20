@@ -1,16 +1,32 @@
 html{
   background-color: black;
   font-family: verdana;
+  text-align: center;
 }
 h1{
   font-family: verdana;
   font-weight: normal;
   font-size: 50px;
   color: white;
-  text-align: center;
 }
 a{
   color: aquamarine;
   font-size: 16px;
-  text-align: center;
+}
+h2{
+  color: white;
+  font-weight: 300;
+  font-size: 42 px
+}
+p{
+  color: gray;
+  font-size: 21px;
+}
+img {
+    display: block;
+    margin: 0 auto;
+}
+.copyright{
+  color: gray;
+  text-align: right;
 }
